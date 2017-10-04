@@ -47,6 +47,7 @@ export default {
       // A COMPLETER
       // ici vous fabriquez un 'a' en composant les éléments de la liste listItems
       // à l'aide d'une boucle
+      a = '^D(er|ie|as)'
       if (a === '') {
         // throw Error('Le string de RE est vide')
         return
